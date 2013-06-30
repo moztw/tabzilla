@@ -39,7 +39,7 @@
 #tabzilla {
     float: right;
     display: block;
-    background: url(//www.mozilla.org/tabzilla/media/img/tab.png);
+    background: url(https://raw.github.com/moztw/tabzilla/master/media/img/tab.png);
     height: 44px;
     width: 150px;
     position: relative;
